@@ -9,7 +9,8 @@
     },
     "files": [
         "README.md",
-        "SensorSuit.ts"
+        "SensorSuit.ts",
+        "_locales/zh/chineseString"
     ],
     "testFiles": [
         "test.ts"
