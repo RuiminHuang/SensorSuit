@@ -10,7 +10,7 @@
     "files": [
         "README.md",
         "SensorSuit.ts",
-        "_locales/zh/chineseString"
+        "_locales/zh/chineseString.json"
     ],
     "testFiles": [
         "test.ts"
